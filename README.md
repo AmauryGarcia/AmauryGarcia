@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front end web developer<br>I'm not currently working<br>I'm looking for where to gain experience<br>I'm currently learning react
+I'm a front end web developer<br>I'm currently learning react
 
 
 ## 🌐 Socials:
